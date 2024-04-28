@@ -1,5 +1,5 @@
 
-- 👋 I am a Full-stack Web Developer with extensive experience with more than 15 years of working experience in a wide variety of business areas, including healthcare, real estate, cloud automation, and more. I write clean, modular, well-documented code with security and scalability in mind and help create simple, friendly, accessible user interfaces.
+- 👋 I am a Full-stack Web Developer with extensive experience with more than 25 years of working experience in a wide variety of business areas, including healthcare, real estate, cloud automation, and more. I write clean, modular, well-documented code with security and scalability in mind and help create simple, friendly, accessible user interfaces.
 
 - 👀 My main passion is to build clean robust software that solves the problem of users.
 - 💞️ I have a good skill of API design, complex client/server interaction and well-tested codebase.
